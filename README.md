@@ -21,11 +21,20 @@ I am an IT professional with a strong background in cybersecurity, specializing 
 
 ### INAP (Apr 2023 - Dec 2023)
 - **Position**: Triage - Cloud Support Engineer
-- **Location**: Atlanta Metropolitan Area
+- **Location**: Remote
 - **Responsibilities**:
   - Provided direct support via phone and email for issue identification and escalation.
   - Maintained the integrity of cybersecurity systems by ensuring expedient resolution of issues.
   - Possessed a deep understanding of various server types, IP address management, domain management, and proficiency with operating systems like Linux and Windows.
+  - Techniques to access servers securely, including RDP, SSH, IPMI, KVM, and iDRAC.
+  - Familiarity with basic network diagnostic tools and their role in cybersecurity, including:
+  - ping for network reachability assessment
+  - traceroute for network path analysis
+  - mtr for network diagnostics
+  - dig and nslookup for DNS querying
+  - whois for domain ownership identification
+  - host for DNS lookup
+  - telnet for network connectivity checks
 
 ### Arey Jones Educational Solutions (Jan 2023 - Mar 2023)
 - **Position**: Configuration Specialist (Contract)
