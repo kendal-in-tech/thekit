@@ -7,7 +7,7 @@ I am an IT professional with a strong background in cybersecurity, specializing 
 ## Contact Information
 - **Email**: kendal.in.tech@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/kendal-foster/
-- 
+
 ## Experience
 
 ### GTRI (Dec 2023 - Present)
