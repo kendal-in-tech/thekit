@@ -57,6 +57,3 @@ I am an IT professional with a strong background in cybersecurity, specializing 
 ## Projects
 - *You can include details about any relevant projects you've worked on, including links to GitHub repositories or project demos.*
 
-## Contact Information
-- **Email**: kendal.in.tech@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/kendal-foster/
