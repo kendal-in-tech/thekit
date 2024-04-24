@@ -1,8 +1,10 @@
-# thekit
+# The KIT
+
+<img src="https://github.com/kendal-in-tech/thekit/blob/main/IMG_2391.jpg" alt="Profile Picture" width="200"/>
 
 # About Me
 
-I am an IT professional with a strong background in cybersecurity, specializing in computer network operations and cloud support engineering. With extensive experience in roles such as Cloud Support Engineer at INAP and Configuration Specialist at Arey Jones Educational Solutions, I possess a deep understanding of cybersecurity principles and technologies. My expertise includes Active Directory management, server administration, and proficiency with various operating systems like Linux and Windows. I am skilled in ensuring the integrity of cybersecurity systems through expedient issue resolution and comprehensive network security measures.
+I am an IT professional with a strong background in system administration, and cybersecurity, specializing in computer network operations and cloud support engineering. With extensive experience in roles such as Cloud Support Engineer at INAP and Configuration Specialist at Arey Jones Educational Solutions, I possess a deep understanding of cybersecurity principles and technologies. My expertise includes Active Directory management, server administration, and proficiency with various operating systems like Linux and Windows. I have worked on systems in confidential areas, as well as checked software and hardware for DISA/STIG requirements. I am skilled in ensuring the integrity of systems through expedient issue resolution and comprehensive network security measures.
 
 ## Contact Information
 - **Email**: kendal.in.tech@gmail.com
@@ -42,6 +44,16 @@ I am an IT professional with a strong background in cybersecurity, specializing 
 - **Responsibilities**:
   - Implemented static IP configurations on network printers.
   - Set up network printers with static gateway addresses and designated static DNS servers.
+
+### j5create (May 2021 - May 2022)
+- **Position**: Technical Support Specialist
+- **Location**: Atlanta, Georgia, United States
+- **Responsibilities**:
+  - Executed multi-channel technical support, encompassing phone, email, and live chat interfaces, to address and resolve customer inquiries and technical issues.
+  - Rapidly identified and resolved customer problems, leveraging excellent problem-solving skills and maintaining professional communication to ensure a positive customer experience.
+  - Innovated troubleshooting methodologies, sharing strategic insights with the team to streamline issue resolution processes.
+  - Contributed to the maintenance of the knowledge base by cataloguing recurring customer issues, enhancing accessibility and efficiency of information for issue resolution.
+  - Participated in quality assurance activities for current and new products, providing detailed feedback to management to facilitate continuous product improvement.
 
 ## Skills
 - Computer Network Operations
