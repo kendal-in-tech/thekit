@@ -1,6 +1,6 @@
 # The KIT
 
-<img src="https://github.com/kendal-in-tech/thekit/blob/main/IMG_2391.jpg" alt="Profile Picture" width="200"/>
+<img src="https://github.com/kendal-in-tech/thekit/blob/main/IMG_2391.jpg" alt="Profile Picture" width="200"/> <img src="https://github.com/kendal-in-tech/thekit/blob/main/2.png" alt="Profile Picture" width="270"/>
 
 # About Me
 
