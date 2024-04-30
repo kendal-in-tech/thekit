@@ -67,5 +67,7 @@ I am an IT professional with a strong background in system administration, and c
 - Network Diagnostic Tools (ping, traceroute, mtr, dig, nslookup, whois, host, telnet)
 
 ## Projects
-- *You can include details about any relevant projects you've worked on, including links to GitHub repositories or project demos.*
 
+https://github.com/kendal-in-tech/Server-Setup---Active-Directory
+
+https://github.com/kendal-in-tech/Server-Setup-Add-Client-PC
