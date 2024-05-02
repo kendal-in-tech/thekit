@@ -12,7 +12,7 @@ I am an IT professional with a strong background in system administration, and c
 
 ## Experience
 
-### GTRI (Dec 2023 - Present)
+### GTRI (Dec 2023 - April 2024)
 - **Position**: IT Support Professional
 - **Location**: Atlanta Metropolitan Area
 - **Responsibilities**:
